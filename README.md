@@ -2,4 +2,4 @@
 
 ## Sistema de punto de venta
 
-### Autor: Eduardo May
+### Autor: Emi vargas
